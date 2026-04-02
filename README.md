@@ -96,7 +96,7 @@ Learning objectives are listed for each phase with links to free resources to he
 - Visualization in spreadsheets
   
 **Resources:**
-- [Excel Full Course – freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=Vl0H-qTclOg) - you don't have to watch the entire video, feel free to stop when learning objectives are met
+- [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg) - you don't have to watch the entire video, feel free to stop when learning objectives are met
 
 **Practice:**  
 - Use any dataset of interest from [Kaggle Datasets](https://www.kaggle.com/datasets) 
