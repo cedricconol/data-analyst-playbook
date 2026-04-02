@@ -203,8 +203,7 @@ Learning objectives are listed for each phase with links to free resources to he
 ## Next Steps
 
 If you found this helpful:
-
-- Follow me on TikTok  
+ 
 - Share this with someone who wants to break into data  
 - Watch out for the next playbooks: **Data Modeling with dbt, The Data Analyst Portfolio, Interview Preparation**
 
